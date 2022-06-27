@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #E5E5E5;
+    background-color: #FFFFFF;
     color: var(--primary-text-color);
 
     font-family: Roboto, sans-serif;
@@ -35,7 +35,6 @@ img {
 }
 
 .page-header {
-    background-color: #FFFFFF;
     border-bottom: 1px solid #ECECEC;
 }
 
@@ -227,7 +226,7 @@ section {
     justify-content: space-between;
 }
 
-.features .item {
+.features .item { 
     width: 270px;
     margin-right: 30px;
 }
@@ -332,10 +331,6 @@ section {
 }
 
 /* portfolio content */
-
-.section {
-    background-color: #FFFFFF;
-}
 
 .content {
     display: flex;
